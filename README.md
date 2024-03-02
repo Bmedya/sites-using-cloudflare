@@ -1237,6 +1237,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [trafficestimate.com](http://trafficestimate.com)
 - [trafficfactory.biz](http://trafficfactory.biz)
 - [trafficg.com](http://trafficg.com)
+- [bodurmedya.com](https://www.bodurmedya.com)
 - [traidnt.net](http://traidnt.net)
 - [tribune.com.pk](http://tribune.com.pk)
 - [trndsys.co](http://trndsys.co)
